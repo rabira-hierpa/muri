@@ -4,7 +4,6 @@ self.name = "populationPrediction.worker";
 
 self.onmessage = (event) => {
   const { population, growthRate, years } = event.data;
-  console.log({ population, growthRate, years });
   let populationPrediction: populationPrediction[] = [];
   let tempPop = population;
   let i = 1;
