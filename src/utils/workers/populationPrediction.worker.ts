@@ -8,7 +8,7 @@ self.onmessage = (event) => {
   let tempPop = population;
   let i = 1;
 
-  // set the loop to delay by 5 seconds using setTimeout
+  // set the loop to delay by 5 seconds using setInterval
   const process = setInterval(() => {
     if (i <= years) {
       const result = tempPop * (1 + growthRate / 100);
