@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo Video
 
-[Demo](https://github.com/rabira-hierpa/muri/demo.mov)
+[Demo](https://github.com/rabira-hierpa/muri/blob/main/demo.mov)
 
 ## Available Scripts
 
